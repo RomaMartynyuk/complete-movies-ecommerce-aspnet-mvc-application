@@ -1,4 +1,4 @@
-﻿using Movies_Service.Data;
+﻿using Movies_Service.Data.Enums;
 using System.ComponentModel.DataAnnotations;
 
 namespace Movies_Service.Models

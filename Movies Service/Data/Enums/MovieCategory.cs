@@ -1,4 +1,4 @@
-﻿namespace Movies_Service.Data
+﻿namespace Movies_Service.Data.Enums
 {
     public enum MovieCategory
     {
